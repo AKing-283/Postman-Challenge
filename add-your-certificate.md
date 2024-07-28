@@ -502,6 +502,6 @@
 | 130 | Akash Maity | aakashmaity57@gmail.com | [Akash Maity](https://www.linkedin.com/in/aakashmaity/) | [Certificate Link](https://api.badgr.io/public/assertions/CFnCHf_wS1-XDZqfKIGdTA?identity__email=aakashmaity57%40gmail.com) | Quite easy! |
 | 130 | Mantu Kumar Tiwari | mantu99739@gmail.com | [Mantu Kumar Tiwari](http://www.linkedin.com/in/mantu-kumar-tiwari-553160262) | [Certificate Link](https://api.badgr.io/public/assertions/zpI2wyjnTzOqTQcpnW0jKA?identity__email=mantu99739%40gmail.com) | Want Some Task like this |
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
-
+| 137 | Puspak Dakkata | pushpakreddy283@gmail.com       | [Puspak Dakkata](https://www.linkedin.com/in/puspak-d-5a25a3246/)  | [Certificate Link](https://api.badgr.io/public/assertions/GgSAEUNqSg6gAxcJ6kdW9Q?identity__email=pushpakreddy283%40gmail.com)    | Had a really great learning with this and got to know more in detail about api and it's working as well.   |
 
 
